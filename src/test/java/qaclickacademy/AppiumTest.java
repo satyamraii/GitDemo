@@ -9,6 +9,12 @@ public class AppiumTest {
 		System.out.println ("NativeappAndroid"); //NativeappAndroid-> method.
 		
 	}
+	@Test
+	public void NativeappAndroid2()
+	{
+		System.out.println ("NativeappAndroid"); //NativeappAndroid-> method.
+		
+	}
 
 	@Test
 	public void iosApps()
