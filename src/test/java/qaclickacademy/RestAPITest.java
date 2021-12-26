@@ -9,6 +9,15 @@ public class RestAPITest {
 		System.out.println ("PostJira");
 		System.out.println ("PostJira2");
 		System.out.println ("PostJira3");
+		
+		//Add new lines
+		
+		System.out.println ("PostJira4");
+		System.out.println ("PostJira5");
+		System.out.println ("PostJira6");
+		System.out.println ("PostJira7");
+		System.out.println ("PostJira8");
+		
 	}
 
 	@Test
